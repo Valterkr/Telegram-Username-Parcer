@@ -1,0 +1,22 @@
+# Telegram-сессии (НИКОГДА не публиковать)
+*.session
+*.session-journal
+sessions/
+
+# Данные аккаунтов
+accounts.json
+
+# Результаты сканирования
+available.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini

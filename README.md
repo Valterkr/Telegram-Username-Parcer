@@ -81,7 +81,7 @@ host:port:user:pass
 
 ### Не нашли своей проблемы?
 
-Создайте её в разделе [Issues](https://github.com/ВАШ_НИК/ВАШ_РЕПО/issues).
+Создайте её в разделе [Issues](https://github.com/Valterkr/Telegram-Username-Parcer/issues).
 
 ---
 

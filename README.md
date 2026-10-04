@@ -97,6 +97,7 @@ host:port:user:pass
 Вы можете поддержать проект, поставив ⭐ этому репозиторию (сверху справа этой страницы).
 
 Также вы можете помочь материально отсканировав QR-код (сбп)
+
 <img width="315" height="313" alt="image" src="https://github.com/user-attachments/assets/03fa8b28-6b65-405b-aaa8-03bfd511c8e1" />
 
 

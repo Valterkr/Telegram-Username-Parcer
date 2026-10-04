@@ -109,10 +109,8 @@ host:port:user:pass
 Спасибо всем, кто тестировал программу и сообщал об ошибках.
 
 📬 Контакты
-Telegram: @ВАШ_НИК
+Telegram: @n0c0cu
 
-GitHub: ВАШ_НИК
-
-Email: your@email.com
+Email: Valterkreidtner@gmail.com
 
 По любым вопросам, багам и предложениям — пишите, отвечаю по возможности быстро.

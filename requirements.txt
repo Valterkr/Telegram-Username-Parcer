@@ -1,2 +1,7 @@
-Telethon>=1.34,<2.0
-python-socks[asyncio]>=2.4
+# Сборка Telegram Username Scanner 2.0 в один exe (portable)
+# pip install -r requirements.txt
+# pyinstaller TelegramUsernameScanner.spec
+# На выходе: dist/TelegramUsernameScanner.exe — его и класть в релиз + в Setup
+
+telethon>=1.37
+pyinstaller>=6.0
